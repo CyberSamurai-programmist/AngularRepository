@@ -1,2 +1,2 @@
-# AngularProject
+# AngularRepository
 Courses AngularCLI
